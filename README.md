@@ -12,3 +12,5 @@ git clone https://github.com/microsoft/vcpkg
 create a new empty project on visual studio, c++ console
 
 right click project name, add new item, and paste the cpp from this repo
+
+need to do a better sanitizer function, feel free to fork this
