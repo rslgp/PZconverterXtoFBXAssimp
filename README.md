@@ -5,8 +5,8 @@ on windows
 setup assimp lib and inclue using vcpkg
 
 ```
-mkdir E:\Microsoft Visual Studio\vcpkg
-cd E:\Microsoft Visual Studio\vcpkg
+mkdir "E:\Microsoft Visual Studio\vcpkg"
+cd "E:\Microsoft Visual Studio\vcpkg"
 git clone https://github.com/microsoft/vcpkg
 "E:\Microsoft Visual Studio\vcpkg\vcpkg\bootstrap-vcpkg.bat"
 "E:\Microsoft Visual Studio\vcpkg\vcpkg\vcpkg.exe" integrate install
